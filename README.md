@@ -44,7 +44,7 @@ ProjectStreamlit/
     ```
 3.  **Ejecutar la aplicación**:
     ```bash
-    streamlit run app.py
+    uv run streamlit run app.py
     ```
 
 ## 💡 Notas de Uso
