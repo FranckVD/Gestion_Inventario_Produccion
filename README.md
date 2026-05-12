@@ -23,7 +23,7 @@ Esta es una aplicación integral desarrollada en **Python** con **Streamlit**, d
 ## 📂 Estructura del Proyecto
 
 ```text
-ControlPro/
+ProjectStreamlit/
 ├── app.py                # Punto de entrada y orquestador de navegación
 ├── config/               # Configuraciones globales y constantes
 ├── database/             # Conexión y repositorios SQL (Acceso a datos)
