@@ -54,4 +54,4 @@ ProjectStreamlit/
 *   Todos los cálculos de costos en el Kardex se basan en el valor neto (87%) tras la compra de materia prima.
 
 ---
-Sistema personal de gestión optimizada de recursos y producción.
+Sistema personal de gestión optimizada de recursos y producción desarrollado por `FranckVD`, para visualizar la app vé a [gestiónInventario]([https://streamlit.io/](https://gestioninventarioapp.streamlit.app/)).
